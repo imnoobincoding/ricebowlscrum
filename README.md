@@ -1,4 +1,4 @@
-![Orangescrum Logo](https://www.orangescrum.com/blog/wp-content/uploads/2022/04/Orangescrum-Logo.png)
+![Ricebowl Logo](https://imgur.com/a/GAZJUOi)
 
 
 ![GitHub all releases](https://img.shields.io/github/downloads/orangescrum/orangescrum/total)
