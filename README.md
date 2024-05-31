@@ -1,4 +1,4 @@
-![Ricebowl Logo](https://imgur.com/a/GAZJUOi)
+![Ricebowl Logo](https://i.imgur.com/PytA9e2.png)
 
 
 ![GitHub all releases](https://img.shields.io/github/downloads/orangescrum/orangescrum/total)
